@@ -155,6 +155,10 @@ if (0 < x) {
 }
 ```
 
+<img width="602" height="473" alt="屏幕截图 2026-01-01 122925" src="https://github.com/user-attachments/assets/03559125-c3e7-494e-beb5-046f5a546f94" />
+<img width="602" height="473" alt="屏幕截图 2026-01-01 122939" src="https://github.com/user-attachments/assets/d8b07bb9-9a26-43e2-8ffe-30cd3ae6729e" />
+<img width="602" height="473" alt="屏幕截图 2026-01-01 122946" src="https://github.com/user-attachments/assets/a516d35a-0b5c-47e8-b062-c98fd16dbb9e" />
+
 ### 测试用例 2: 扩展循环与运算 (Extended Features)
 ```tiny
 /* 测试 for 循环和 += 运算符 */
